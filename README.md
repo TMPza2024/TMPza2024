@@ -14,7 +14,7 @@
   Welcome to my GitHub sanctuary! I'm a coding enthusiast and [Your Profession or Field], passionate about [Your Interests or Expertise].
 </p>
 
-<!-- Languages & Tools -->
+<!-- Languages -->
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
