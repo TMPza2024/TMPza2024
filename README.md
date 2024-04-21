@@ -4,15 +4,14 @@
 </p>
 <h1 align="center">👋 Hey there, I'm TMPza2024!</h1>
 <p align="center">
-  <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/github/followers/YourUsername?style=social" alt="GitHub followers">
+  <a href="https://github.com/TMPza2024">
+    <img src="https://img.shields.io/github/followers/TMPza2024?style=social" alt="GitHub followers">
   </a>
 </p>
 
 <!-- Introduction -->
-<p align="center">
-  Welcome to my GitHub sanctuary! I'm a coding enthusiast and [Your Profession or Field], passionate about [Your Interests or Expertise].
-</p>
+<p align="center">Step into my GitHub sanctuary! As a coding virtuoso and master of encryption, I'm dedicated to unraveling dark web mysteries and fortifying cyber defenses.
+Join me on this exhilarating journey!</p>
 
 <!-- Languages -->
 <h2 align="center">Languages</h2>
@@ -41,26 +40,26 @@
   Let's connect and explore exciting projects together!
 </p>
 <p align="center">
-    <a href="https://github.com/YourUsername">
+    <a href="https://github.com/TMPza2024">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=TMPza2024&color=blueviolet" alt="Profile Views">
 </p>
 
 <!-- My Stats -->
 <h2 align="center">My Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TMPza2024&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- GitHub Activity -->
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMPza2024&theme=dark" alt="GitHub Streak">
   <br>
 </p>
 
@@ -68,9 +67,9 @@
 <h2 align="center">Top Repositories</h2>
 <p align="center">
   <a href="Link-to-Top-Repository-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Top-Repository-1&theme=dark" alt="Top Repository 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TMPza2024&repo=deep-web-links&theme=dark" alt="deep-web-links">
   </a>
   <a href="Link-to-Top-Repository-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Top-Repository-2&theme=dark" alt="Top Repository 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TMPza2024&repo=TMPza2024&theme=dark" alt="TMPza2024">
   </a>
 </p>
