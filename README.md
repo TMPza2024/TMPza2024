@@ -68,7 +68,7 @@ Join me on this exhilarating journey!
   <a href="Link-to-Top-Repository-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TMPza2024&repo=deep-web-links&theme=dark" alt="deep-web-links">
   </a>
-  <a href="Link-to-Top-Repository-2">
+  <a href="https://github.com/TMPza2024/TMPza2024">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TMPza2024&repo=TMPza2024&theme=dark" alt="TMPza2024">
   </a>
 </p>
