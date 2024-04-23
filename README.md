@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url-here" width="250" height="250">
+  <img src="https://github.com/TMPza2024/TMPza2024/blob/main/TMPza.png>
 </p>
 <h1 align="center">👋 Hey there, I'm TMPza2024!</h1>
 <p align="center">
