@@ -4,7 +4,9 @@
 </p>
 
 <!-- Website -->
-<h2 align="center">🌐 Explore the TOR :- <a href="https://the-hiddenwiki.com">🧅</a></h2>
+<h2 align="center">😎 Don't wait!</h2>
+<h2 align="center">👇 Click below to explore! 👇</h2>
+<h2 align="center"><a href="https://the-hiddenwiki.com">🧅</a></h2>
 
 <p align="center">
   <a href="https://github.com/TMPza2024">
